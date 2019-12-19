@@ -1,0 +1,1 @@
+<a href="{{Auth::logout()}}">{{ Auth::user()->name }}</a>
